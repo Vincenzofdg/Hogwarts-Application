@@ -29,7 +29,6 @@ termos.addEventListener('click', () => {
   }
 });
 
-// Requisito 20:
 texto.addEventListener('input', () => {
   const num = 500 - document.getElementById('textarea').value.length;
   if (num >= 0) {
@@ -58,7 +57,6 @@ const guardaCheckboxSelecionado = (array, nomeChave) => {
   return guarda;
 };
 
-// Requisito 21:
 botaoEnviar.addEventListener('click', () => {
   const familia = guardaRadioSelecionado('family', 'Família'); // Guarda os dados na variavel, antes de resetar o forms.
   const nota = guardaRadioSelecionado('rate', 'Avaliação');
