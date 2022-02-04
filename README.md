@@ -1,8 +1,9 @@
 Knowledge Required:
 
- - DOM and Selector;
- - Working with Elements;
- - Events;
- - Web Storage.
+ - Forms;
+ - JavaScript Library and CSS Frameworks;
+ - Flexbox;
+ - Responsive CSS;
+ - Mobile First.
 
 ![image](preview.gif)
